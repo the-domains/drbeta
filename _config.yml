@@ -1,7 +1,7 @@
 name: drbeta
 favicon: null
-layout_spectrum: 0.8164720821660012
-typography_spectrum: 0.37836189311929047
+layout_spectrum: 0.90703
+typography_spectrum: 0.24156
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#6f8485'
+    - '#2d3f41'
+    - '#a6c5c7'
+    - '#27dee9'
+    - '#d6fcff'
   brandStrength: 0.9438952289056033
   lightness: 0.87018175679259
-  saturation: 0.02983968029730022
+  saturation: 0
   rhythmicContrast: 0.3432619229424745
 purpose: []
